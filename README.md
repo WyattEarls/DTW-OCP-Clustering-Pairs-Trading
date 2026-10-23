@@ -75,6 +75,7 @@ notebooks/
   archive/                                          earlier notebooks
 results/        result tables (CSV) and figures
 data/           frozen membership files
+'''
 
 ## How to run
 
