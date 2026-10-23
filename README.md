@@ -56,6 +56,15 @@ Each step was tested with one planned comparison, specified before any results w
 - Market betas were about 0.03, consistent with market-neutral strategies.
 - Gains came mainly from 2001 to 2009; returns after 2010 were close to zero, consistent with the literature on declining pairs-trading profits.
 
+## Limitations
+
+- **Survivorship:** Yahoo Finance does not retain prices for most delisted companies, so early windows draw from a smaller universe tilted toward survivors. CRSP data would remove this limitation.
+- **Reused tickers:** tickers reassigned to other companies were detected using delisted markers available through 2019; reuse after 2019 could not be detected.
+- **Costs:** short-borrow fees and margin requirements are not modeled.
+- **Scope:** results cover S&P 500 large caps at daily frequency only.
+
+
+
 
 
 
