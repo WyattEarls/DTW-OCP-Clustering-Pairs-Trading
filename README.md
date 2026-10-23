@@ -95,4 +95,4 @@ Stübinger, J. (2019). Statistical arbitrage with optimal causal paths on high-f
 
 ## Author
 
-Wyatt Earls, Math of Data & Computing, UTSA Honors College. Research conducted as a research assistant under Professor Donald Lien.
+Wyatt Earls, Math of Data & Computing, UTSA Honors College. Research conducted as a undergraduate research assistant.
