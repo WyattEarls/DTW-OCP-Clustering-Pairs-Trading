@@ -12,6 +12,22 @@ Each step was tested with one planned comparison, specified before any results w
 2. Clustered DTW vs clustered Manhattan: Does time warping help?
 3. Clustered OCP vs Clustered DTW: does restricting warping to causal paths help?
 
+## Design
+
+| Element | Choice |
+| --- | --- |
+| Universe | Point-in-time S&P 500 membership at each formation start; 221 to 481 usable stocks per window |
+| Windows  | 50 rolling windows: form pairs on 12 months, trade the next 6, step forward 6 months (trading January 2001 to December 2025)|
+| Input | Cumulative returns over the formation year |
+| Distances | Manhattan, DTW and OCP, all with absolute-difference cost; OCP restricts alignment paths to one stock leading the other |
+| Clustering | Ward hierarchical clustering; k in {2, 4, 7} chosen per window by majority vote of silhouette, Calinski-Harabasz and Davies-Bouldin |
+| Pair selection | Top 20 pairs within clusters by each method's own distance; Gatev selects its top 20 by sum of squared differences across the whole universe |
+| Trading rule | Identical for all models: open at 2 formation-period standard deviations, close when prices cross, one-day execution lag |
+| Costs | 0, 5, 10 and 20 basis points per dollar traded |
+| Tests | Block bootstrap of Sharpe differences (5,000 resamples, 20-day blocks); alpha from a market regression with Newey-West standard errors |
+
+
+
 
 
 
