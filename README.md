@@ -63,18 +63,35 @@ Each step was tested with one planned comparison, specified before any results w
 - **Costs:** short-borrow fees and margin requirements are not modeled.
 - **Scope:** results cover S&P 500 large caps at daily frequency only.
 
+## Earlier work
 
+Earlier versions of this project selected pairs once and traded them for up to 17 years. Those versions contained errors in how returns were measured, how the risk-free rate was applied and how benchmark returns and transaction costs were calculated. The errors were identified and corrected, and the rolling-window study above replaced that design. Earlier notebooks are kept in 'notebooks/archive/' for reference.
 
+## Repository structure
 
+'''
+notebooks/
+  Rolling-DTW-OCP-Manhattan-vs-Gatev-SP500.ipynb  final study
+  archive/                                          earlier notebooks
+results/        result tables (CSV) and figures
+data/           frozen membership files
 
+## How to run
 
+'''
+pip install -r requirements.txt
+'''
 
+Open the final notebook and run all cells. The first run downloads daily prices from Yahoo Finance and computes all 50 windows, which takes roughly 25 minutes. Every window's results are cached, so later runs take seconds.
 
+## References
 
+Gatev, E., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). Pairs trading: Performance of a relative-value arbitrage rule. *The review of Financial studies, 19*(3), 797-827. https://doi.org/10.1093/rfs/hhj020
 
+Sakoe, H., & Chiba, S. (1978). Dynamic programming algorithm optimization for spoken word recognition. *IEEE Transactions on Acoustics, Speech, and Signal Processing, 26*(1), 43-49. https://doi.org/10.1109/TASSP.1978.1163055
 
+Stübinger, J. (2019). Statistical arbitrage with optimal causal paths on high-frequency data of the S&P 500. *Quantitative Finance, 19*(6), 921-935. https://doi.org/10.1080/14697688.2018.1537503
 
+## Author
 
-
-
-
+Wyatt Earls, Math of Data & Computing, UTSA Honors College. Research conducted as a research assistant under Professor Donald Lien.
