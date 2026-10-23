@@ -26,6 +26,30 @@ Each step was tested with one planned comparison, specified before any results w
 | Costs | 0, 5, 10 and 20 basis points per dollar traded |
 | Tests | Block bootstrap of Sharpe differences (5,000 resamples, 20-day blocks); alpha from a market regression with Newey-West standard errors |
 
+## Results
+
+**Performance, 2001 to 2025**
+
+| Model | Sharpe (0 bps) | Sharpe (10 bps) | Annual return (0 bps) | Annual volatility | Max Drawdown (log) |
+|---|---|---|---|---|---|
+| Clustered DTW | 0.219 | 0.006 | 0.52% | 2.36% | -0.108 |
+| Gatev distance | 0.211 | -0.016 | 0.49% | 2.34% | -0.092 |
+| Clustered Manhattan | 0.056 | -0.156 | 0.14% | 2.46% | -0.152 |
+| Clustered OCP | 0.051 | -0.146 | 0.12% | 2.41% | -0.129 |
+| S&P 500 buy-and-hold (context) | 0.352 | 8.47% | 19.27% | -0.804 |
+
+**Planned comparisons (0 bps)**
+
+| Comparison | Sharpe difference | 95% bootstrap interval | p-value |
+|---|---|---|---|
+| Clustered Manhattan vs Gatev | -0.155 | -0.323 to 0.013 | 0.068 |
+| Clustered DTW bs clustered Manhattan | +0.163 | -0.158 to 0.477 | 0.326 |
+| Clustered OCP vs clustered DTW | -0.168 | -0.428 to 0.084 | 0.174 |
+
+
+
+
+
 
 
 
