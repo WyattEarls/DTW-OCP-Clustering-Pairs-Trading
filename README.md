@@ -46,6 +46,17 @@ Each step was tested with one planned comparison, specified before any results w
 | Clustered DTW bs clustered Manhattan | +0.163 | -0.158 to 0.477 | 0.326 |
 | Clustered OCP vs clustered DTW | -0.168 | -0.428 to 0.084 | 0.174 |
 
+**Main findings**
+
+- No planned comparison was statistically significant at any cost level.
+- No model earned a Sharpe ratio or alpha significantly above zero. At 20 bps, clustered Manhattan and OCP had significantly negative alphas.
+- Every model's edge disappeared at 10 bps of transaction costs.
+- The clustering step had almost no effect: the three indices chose two clusters in all 150 decisions, and the cluster restriction changed under 1% of selected pairs. The comparisons therefore test the distance measures themselves.
+- DTW and Gatev chose substantially different pairs (10.8 of 20 shared per window on average) yet performed no differently.
+- Market betas were about 0.03, consistent with market-neutral strategies.
+- Gains came mainly from 2001 to 2009; returns after 2010 were close to zero, consistent with the literature on declining pairs-trading profits.
+
+
 
 
 
