@@ -70,11 +70,8 @@ Earlier versions of this project selected pairs once and traded them for up to 1
 ## Repository structure
 
 '''
-notebooks/
-  Rolling-DTW-OCP-Manhattan-vs-Gatev-SP500.ipynb  final study
-  archive/                                          earlier notebooks
-results/        result tables (CSV) and figures
-data/           frozen membership files
+rolling-study/    final notebook with its frozen data, cached window results and result tables
+archive/          earlier notebooks and their outputs, kept for reference
 '''
 
 ## How to run
