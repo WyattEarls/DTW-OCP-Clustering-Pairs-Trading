@@ -1,0 +1,237 @@
+ticker,name,exchange,type
+A,"Agilent Technologies, Inc.",NYQ,EQUITY
+AAPL,Apple Inc.,NMS,EQUITY
+ABT,Abbott Laboratories,NYQ,EQUITY
+ADBE,Adobe Inc.,NMS,EQUITY
+ADI,"Analog Devices, Inc.",NMS,EQUITY
+ADM,Archer-Daniels-Midland Company,NYQ,EQUITY
+ADP,"Automatic Data Processing, Inc.",NMS,EQUITY
+ADSK,"Autodesk, Inc.",NMS,EQUITY
+AEE,Ameren Corporation,NYQ,EQUITY
+AEP,"American Electric Power Company, Inc.",NMS,EQUITY
+AES,The AES Corporation,NYQ,EQUITY
+AFL,Aflac Incorporated,NYQ,EQUITY
+AIG,"American International Group, Inc.",NYQ,EQUITY
+ALL,The Allstate Corporation,NYQ,EQUITY
+AMAT,"Applied Materials, Inc.",NMS,EQUITY
+AMD,"Advanced Micro Devices, Inc.",NMS,EQUITY
+AMGN,Amgen Inc.,NMS,EQUITY
+AON,Aon plc,NYQ,EQUITY
+APA,APA Corporation,NMS,EQUITY
+APD,"Air Products and Chemicals, Inc.",NYQ,EQUITY
+ASH,Ashland Inc.,NYQ,EQUITY
+ATI,ATI Inc.,NYQ,EQUITY
+AVY,Avery Dennison Corporation,NYQ,EQUITY
+AXP,American Express Company,NYQ,EQUITY
+AZO,"AutoZone, Inc.",NYQ,EQUITY
+BA,The Boeing Company,NYQ,EQUITY
+BAC,Bank of America Corporation,NYQ,EQUITY
+BAX,Baxter International Inc.,NYQ,EQUITY
+BBY,"Best Buy Co., Inc.",NYQ,EQUITY
+BC,Brunswick Corporation,NYQ,EQUITY
+BDX,"Becton, Dickinson and Company",NYQ,EQUITY
+BEN,Franklin Templeton Inc.,NYQ,EQUITY
+BF-B,Brown-Forman Corporation,NYQ,EQUITY
+BMY,Bristol-Myers Squibb Company,NYQ,EQUITY
+BSX,Boston Scientific Corporation,NYQ,EQUITY
+C,Citigroup Inc.,NYQ,EQUITY
+CAG,"Conagra Brands, Inc.",NYQ,EQUITY
+CAH,"Cardinal Health, Inc.",NYQ,EQUITY
+CAR,"Avis Budget Group, Inc.",NMS,EQUITY
+CAT,Caterpillar Inc.,NYQ,EQUITY
+CB,Chubb Limited,NYQ,EQUITY
+CCL,Carnival Corporation Ltd.,NYQ,EQUITY
+CCU,Compañía Cervecerías Unidas S.A.,NYQ,EQUITY
+CI,The Cigna Group,NYQ,EQUITY
+CINF,Cincinnati Financial Corporation,NMS,EQUITY
+CL,Colgate-Palmolive Company,NYQ,EQUITY
+CLX,The Clorox Company,NYQ,EQUITY
+CMCSA,Comcast Corporation,NMS,EQUITY
+CMI,Cummins Inc.,NYQ,EQUITY
+CMS,CMS Energy Corporation,NYQ,EQUITY
+CNP,"CenterPoint Energy, Inc.",NYQ,EQUITY
+COF,Capital One Financial Corporation,NYQ,EQUITY
+COP,ConocoPhillips,NYQ,EQUITY
+COST,Costco Wholesale Corporation,NMS,EQUITY
+CPB,The Campbell's Company,NMS,EQUITY
+CSCO,"Cisco Systems, Inc.",NMS,EQUITY
+CSX,CSX Corporation,NMS,EQUITY
+CVS,CVS Health Corporation,NYQ,EQUITY
+CVX,Chevron Corporation,NYQ,EQUITY
+D,"Dominion Energy, Inc.",NYQ,EQUITY
+DD,"DuPont de Nemours, Inc.",NYQ,EQUITY
+DDS,"Dillard's, Inc.",TEX,EQUITY
+DE,Deere & Company,NYQ,EQUITY
+DHR,Danaher Corporation,NYQ,EQUITY
+DIS,The Walt Disney Company,NYQ,EQUITY
+DLX,Deluxe Corporation,NYQ,EQUITY
+DOV,Dover Corporation,NYQ,EQUITY
+DRI,"Darden Restaurants, Inc.",NYQ,EQUITY
+DTE,DTE Energy Company,NYQ,EQUITY
+DUK,Duke Energy Corporation,NYQ,EQUITY
+DVN,Devon Energy Corporation,NYQ,EQUITY
+DXC,DXC Technology Company,NYQ,EQUITY
+ECL,Ecolab Inc.,NYQ,EQUITY
+ED,"Consolidated Edison, Inc.",NYQ,EQUITY
+EFX,Equifax Inc.,NYQ,EQUITY
+EHC,Encompass Health Corporation,NYQ,EQUITY
+EIX,Edison International,NYQ,EQUITY
+EMN,Eastman Chemical Company,NYQ,EQUITY
+EMR,Emerson Electric Co.,NYQ,EQUITY
+EOG,"EOG Resources, Inc.",NYQ,EQUITY
+EP,Empire Petroleum Corporation,ASE,EQUITY
+ETN,Eaton Corporation plc,NYQ,EQUITY
+ETR,Entergy Corporation,NYQ,EQUITY
+EXC,Exelon Corporation,NMS,EQUITY
+F,Ford Motor Company,NYQ,EQUITY
+FCX,Freeport-McMoRan Inc.,NYQ,EQUITY
+FDX,FedEx Corporation,NYQ,EQUITY
+FE,FirstEnergy Corp.,NYQ,EQUITY
+FITB,Fifth Third Bancorp,NYQ,EQUITY
+FMC,FMC Corporation,NYQ,EQUITY
+FMCC,Federal Home Loan Mortgage Corporation,OQB,EQUITY
+FNMA,Federal National Mortgage Association,OQB,EQUITY
+GD,General Dynamics Corporation,NYQ,EQUITY
+GE,GE Aerospace,NYQ,EQUITY
+GIS,"General Mills, Inc.",NYQ,EQUITY
+GLW,Corning Incorporated,NYQ,EQUITY
+GPC,Genuine Parts Company,NYQ,EQUITY
+GT,The Goodyear Tire & Rubber Company,NMS,EQUITY
+GWW,"W.W. Grainger, Inc.",NYQ,EQUITY
+HAL,Halliburton Company,NYQ,EQUITY
+HAS,"Hasbro, Inc.",NMS,EQUITY
+HBAN,Huntington Bancshares Incorporated,NMS,EQUITY
+HD,"The Home Depot, Inc.",NYQ,EQUITY
+HIG,"The Hartford Insurance Group, Inc.",NYQ,EQUITY
+HOG,"Harley-Davidson, Inc.",NYQ,EQUITY
+HON,Honeywell International Inc.,NMS,EQUITY
+HPQ,HP Inc.,NYQ,EQUITY
+HRB,"H&R Block, Inc.",NYQ,EQUITY
+HSY,The Hershey Company,NYQ,EQUITY
+HUM,Humana Inc.,NYQ,EQUITY
+IBM,International Business Machines Corporation,NYQ,EQUITY
+IFF,International Flavors & Fragrances Inc.,NYQ,EQUITY
+INTC,Intel Corporation,NMS,EQUITY
+INTU,Intuit Inc.,NMS,EQUITY
+IP,International Paper Company,NYQ,EQUITY
+ITT,ITT Inc.,NYQ,EQUITY
+ITW,Illinois Tool Works Inc.,NYQ,EQUITY
+JCI,Johnson Controls International plc,NYQ,EQUITY
+JNJ,Johnson & Johnson,NYQ,EQUITY
+JPM,JPMorgan Chase & Co.,NYQ,EQUITY
+KBH,KB Home,NYQ,EQUITY
+KEY,KeyCorp,NYQ,EQUITY
+KLAC,KLA Corporation,NMS,EQUITY
+KMB,Kimberly-Clark Corporation,NMS,EQUITY
+KO,The Coca-Cola Company,NYQ,EQUITY
+KR,The Kroger Co.,NYQ,EQUITY
+KSS,Kohl's Corporation,NYQ,EQUITY
+L,Loews Corporation,NYQ,EQUITY
+LLY,Eli Lilly and Company,NYQ,EQUITY
+LMT,Lockheed Martin Corporation,NYQ,EQUITY
+LNC,Lincoln National Corporation,NYQ,EQUITY
+LOW,"Lowe's Companies, Inc.",NYQ,EQUITY
+LPX,Louisiana-Pacific Corporation,NYQ,EQUITY
+LUV,Southwest Airlines Co.,NYQ,EQUITY
+M,"Macy's, Inc.",NYQ,EQUITY
+MAR,"Marriott International, Inc.",NMS,EQUITY
+MAS,Masco Corporation,NYQ,EQUITY
+MAT,"Mattel, Inc.",NMS,EQUITY
+MBI,MBIA Inc.,NYQ,EQUITY
+MCD,McDonald's Corporation,NYQ,EQUITY
+MCK,McKesson Corporation,NYQ,EQUITY
+MCO,Moody's Corporation,NYQ,EQUITY
+MDT,Medtronic plc,NYQ,EQUITY
+MMM,3M Company,NYQ,EQUITY
+MO,"Altria Group, Inc.",NYQ,EQUITY
+MRK,"Merck & Co., Inc.",NYQ,EQUITY
+MS,Morgan Stanley,NYQ,EQUITY
+MSFT,Microsoft Corporation,NMS,EQUITY
+MSI,"Motorola Solutions, Inc.",NYQ,EQUITY
+MTG,MGIC Investment Corporation,NYQ,EQUITY
+MU,"Micron Technology, Inc.",NMS,EQUITY
+NBR,Nabors Industries Ltd.,NYQ,EQUITY
+NEE,"NextEra Energy, Inc.",NYQ,EQUITY
+NEM,Newmont Corporation,NYQ,EQUITY
+NI,NiSource Inc.,NYQ,EQUITY
+NKE,"NIKE, Inc.",NYQ,EQUITY
+NOC,Northrop Grumman Corporation,NYQ,EQUITY
+NSC,Norfolk Southern Corporation,NYQ,EQUITY
+NTAP,"NetApp, Inc.",NMS,EQUITY
+NTRS,Northern Trust Corporation,NMS,EQUITY
+NUE,Nucor Corporation,NYQ,EQUITY
+NWL,Newell Brands Inc.,NMS,EQUITY
+NYT,The New York Times Company,NYQ,EQUITY
+OKE,"ONEOK, Inc.",NYQ,EQUITY
+OMC,Omnicom Group Inc.,NYQ,EQUITY
+ORCL,Oracle Corporation,NYQ,EQUITY
+OXY,Occidental Petroleum Corporation,NYQ,EQUITY
+PAYX,"Paychex, Inc.",NMS,EQUITY
+PBI,Pitney Bowes Inc.,NYQ,EQUITY
+PCAR,PACCAR Inc,NMS,EQUITY
+PCG,PG&E Corporation,NYQ,EQUITY
+PEG,Public Service Enterprise Group Incorporated,NYQ,EQUITY
+PEP,"PepsiCo, Inc.",NMS,EQUITY
+PFE,Pfizer Inc.,NYQ,EQUITY
+PG,The Procter & Gamble Company,NYQ,EQUITY
+PGR,The Progressive Corporation,NYQ,EQUITY
+PH,Parker-Hannifin Corporation,NYQ,EQUITY
+PHM,"PulteGroup, Inc.",NYQ,EQUITY
+PNC,"The PNC Financial Services Group, Inc.",NYQ,EQUITY
+PNW,Pinnacle West Capital Corporation,NYQ,EQUITY
+PPG,"PPG Industries, Inc.",NYQ,EQUITY
+PPL,PPL Corporation,NYQ,EQUITY
+PTC,PTC Inc.,NMS,EQUITY
+QCOM,QUALCOMM Incorporated,NMS,EQUITY
+R,"Ryder System, Inc.",NYQ,EQUITY
+RF,Regions Financial Corporation,NYQ,EQUITY
+RHI,Robert Half Inc.,NYQ,EQUITY
+RIG,Transocean Ltd.,NYQ,EQUITY
+ROK,"Rockwell Automation, Inc.",NYQ,EQUITY
+SANM,Sanmina Corporation,NMS,EQUITY
+SBUX,Starbucks Corporation,NMS,EQUITY
+SCHW,The Charles Schwab Corporation,NYQ,EQUITY
+SHW,The Sherwin-Williams Company,NYQ,EQUITY
+SLB,SLB N.V.,NYQ,EQUITY
+SLM,SLM Corporation,NMS,EQUITY
+SNA,Snap-on Incorporated,NYQ,EQUITY
+SO,The Southern Company,NYQ,EQUITY
+SPGI,S&P Global Inc.,NYQ,EQUITY
+SRE,Sempra,NYQ,EQUITY
+STT,State Street Corporation,NYQ,EQUITY
+SWK,"Stanley Black & Decker, Inc.",NYQ,EQUITY
+SYK,Stryker Corporation,NYQ,EQUITY
+SYY,Sysco Corporation,NYQ,EQUITY
+T,AT&T Inc.,NYQ,EQUITY
+TAP,Molson Coors Beverage Company,NYQ,EQUITY
+TER,"Teradyne, Inc.",NMS,EQUITY
+TGT,Target Corporation,NYQ,EQUITY
+THC,Tenet Healthcare Corporation,NYQ,EQUITY
+TJX,"The TJX Companies, Inc.",NYQ,EQUITY
+TKR,The Timken Company,NYQ,EQUITY
+TMO,Thermo Fisher Scientific Inc.,NYQ,EQUITY
+TROW,"T. Rowe Price Group, Inc.",NMS,EQUITY
+TRV,"The Travelers Companies, Inc.",NYQ,EQUITY
+TXN,Texas Instruments Incorporated,NMS,EQUITY
+TXT,Textron Inc.,NYQ,EQUITY
+UIS,Unisys Corporation,NYQ,EQUITY
+UNH,UnitedHealth Group Incorporated,NYQ,EQUITY
+UNM,Unum Group,NYQ,EQUITY
+UNP,Union Pacific Corporation,NYQ,EQUITY
+USB,U.S. Bancorp,NYQ,EQUITY
+VFC,V.F. Corporation,NYQ,EQUITY
+VIAV,Viavi Solutions Inc.,NMS,EQUITY
+VMC,Vulcan Materials Company,NYQ,EQUITY
+VZ,Verizon Communications Inc.,NYQ,EQUITY
+WEN,The Wendy's Company,NMS,EQUITY
+WFC,Wells Fargo & Company,NYQ,EQUITY
+WHR,Whirlpool Corporation,NYQ,EQUITY
+WM,"Waste Management, Inc.",NYQ,EQUITY
+WMB,"The Williams Companies, Inc.",NYQ,EQUITY
+WMT,Walmart Inc.,NMS,EQUITY
+WOR,"Worthington Enterprises, Inc.",NYQ,EQUITY
+WY,Weyerhaeuser Company,NYQ,EQUITY
+XEL,Xcel Energy Inc.,NMS,EQUITY
+XOM,ExxonMobil Holdings Corporation,NYQ,EQUITY
+XRX,Xerox Holdings Corporation,NMS,EQUITY
+YUM,"Yum! Brands, Inc.",NYQ,EQUITY

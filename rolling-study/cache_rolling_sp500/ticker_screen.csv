@@ -1,0 +1,648 @@
+ticker,name,exchange
+A,"Agilent Technologies, Inc.",NYQ
+AAL,American Airlines Group Inc.,NMS
+AAP,"Advance Auto Parts, Inc.",NYQ
+AAPL,Apple Inc.,NMS
+ABBV,AbbVie Inc.,NYQ
+ABI,VictoryShares Pioneer Asset-Based Inc ETF,NGM
+ABNB,"Airbnb, Inc.",NMS
+ABT,Abbott Laboratories,NYQ
+ABX,"Abacus Global Management, Inc.",NYQ
+ACGL,Arch Capital Group Ltd.,NMS
+ACN,Accenture plc,NYQ
+ACV,Virtus Diversified Income & Convertible Fund,NYQ
+ADBE,Adobe Inc.,NMS
+ADCT,ADC Therapeutics SA,NYQ
+ADI,"Analog Devices, Inc.",NMS
+ADM,Archer-Daniels-Midland Company,NYQ
+ADP,"Automatic Data Processing, Inc.",NMS
+ADSK,"Autodesk, Inc.",NMS
+ADT,ADT Inc.,NYQ
+AEE,Ameren Corporation,NYQ
+AEP,"American Electric Power Company, Inc.",NMS
+AES,The AES Corporation,NYQ
+AFL,Aflac Incorporated,NYQ
+AIG,"American International Group, Inc.",NYQ
+AIV,Apartment Investment and Management Company,NYQ
+AIZ,"Assurant, Inc.",NYQ
+AJG,Arthur J. Gallagher & Co.,NYQ
+AKAM,"Akamai Technologies, Inc.",NMS
+ALB,Albemarle Corporation,NYQ
+ALGN,"Align Technology, Inc.",NMS
+ALK,"Alaska Air Group, Inc.",NYQ
+ALL,The Allstate Corporation,NYQ
+ALLE,Allegion plc,NYQ
+AM,Antero Midstream Corporation,NYQ
+AMAT,"Applied Materials, Inc.",NMS
+AMCR,Amcor plc,NYQ
+AMD,"Advanced Micro Devices, Inc.",NMS
+AME,"AMETEK, Inc.",NYQ
+AMG,"Affiliated Managers Group, Inc.",NYQ
+AMGN,Amgen Inc.,NMS
+AMP,"Ameriprise Financial, Inc.",NYQ
+AMT,American Tower Corporation,NYQ
+AMZN,"Amazon.com, Inc.",NMS
+AN,"AutoNation, Inc.",NYQ
+ANET,"Arista Networks, Inc.",NYQ
+ANF,Abercrombie & Fitch Co.,NYQ
+AON,Aon plc,NYQ
+AOS,A. O. Smith Corporation,NYQ
+APA,APA Corporation,NMS
+APD,"Air Products and Chemicals, Inc.",NYQ
+APH,Amphenol Corporation,NYQ
+APTV,Aptiv PLC,NYQ
+ARE,"Alexandria Real Estate Equities, Inc.",NYQ
+ASH,Ashland Inc.,NYQ
+ASO,"Academy Sports and Outdoors, Inc.",NMS
+ATI,ATI Inc.,NYQ
+ATO,Atmos Energy Corporation,NYQ
+AVGO,Broadcom Inc.,NMS
+AVY,Avery Dennison Corporation,NYQ
+AWK,"American Water Works Company, Inc.",NYQ
+AXON,"Axon Enterprise, Inc.",NMS
+AXP,American Express Company,NYQ
+AYI,Acuity Inc.,NYQ
+AZO,"AutoZone, Inc.",NYQ
+BA,The Boeing Company,NYQ
+BAC,Bank of America Corporation,NYQ
+BALL,Ball Corporation,NYQ
+BAX,Baxter International Inc.,NYQ
+BBT,Beacon Financial Corporation,NYQ
+BBWI,"Bath & Body Works, Inc.",NYQ
+BBY,"Best Buy Co., Inc.",NYQ
+BC,Brunswick Corporation,NYQ
+BDX,"Becton, Dickinson and Company",NYQ
+BEAM,Beam Therapeutics Inc.,NMS
+BEN,Franklin Templeton Inc.,NYQ
+BF-B,Brown-Forman Corporation,NYQ
+BG,Bunge Global SA,NYQ
+BHF,"Brighthouse Financial, Inc.",NMS
+BIIB,Biogen Inc.,NMS
+BIO,"Bio-Rad Laboratories, Inc.",NYQ
+BKNG,Booking Holdings Inc.,NMS
+BKR,Baker Hughes Company,NMS
+BLDR,"Builders FirstSource, Inc.",NYQ
+BLK,"BlackRock, Inc.",NYQ
+BMY,Bristol-Myers Squibb Company,NYQ
+BR,"Broadridge Financial Solutions, Inc.",NYQ
+BRK-B,Berkshire Hathaway Inc.,NYQ
+BRO,"Brown & Brown, Inc.",NYQ
+BSX,Boston Scientific Corporation,NYQ
+BUD,Anheuser-Busch InBev SA/NV,NYQ
+BWA,BorgWarner Inc.,NYQ
+BX,Blackstone Inc.,NYQ
+BXP,"BXP, Inc.",NYQ
+C,Citigroup Inc.,NYQ
+CAG,"Conagra Brands, Inc.",NYQ
+CAH,"Cardinal Health, Inc.",NYQ
+CAM,AB California Intermediate Municipal ETF,PCX
+CAR,"Avis Budget Group, Inc.",NMS
+CARR,Carrier Global Corporation,NYQ
+CAT,Caterpillar Inc.,NYQ
+CBOE,"Cboe Global Markets, Inc.",BTS
+CBRE,"CBRE Group, Inc.",NYQ
+CCI,Crown Castle Inc.,NYQ
+CCK,"Crown Holdings, Inc.",NYQ
+CCL,Carnival Corporation Ltd.,NYQ
+CDNS,"Cadence Design Systems, Inc.",NMS
+CDW,CDW Corporation,NMS
+CE,Celanese Corporation,NYQ
+CEG,Constellation Energy Corporation,NMS
+CF,"CF Industries Holdings, Inc.",NYQ
+CFG,"Citizens Financial Group, Inc.",NYQ
+CG,The Carlyle Group Inc.,NMS
+CHA,Chagee Holdings Limited,NMS
+CHD,"Church & Dwight Co., Inc.",NYQ
+CHRW,"C.H. Robinson Worldwide, Inc.",NMS
+CHTR,"Charter Communications, Inc.",NMS
+CI,The Cigna Group,NYQ
+CIEN,Ciena Corporation,NYQ
+CINF,Cincinnati Financial Corporation,NMS
+CL,Colgate-Palmolive Company,NYQ
+CLF,Cleveland-Cliffs Inc.,NYQ
+CLX,The Clorox Company,NYQ
+CMCSA,Comcast Corporation,NMS
+CME,CME Group Inc.,NMS
+CMG,"Chipotle Mexican Grill, Inc.",NYQ
+CMI,Cummins Inc.,NYQ
+CMS,CMS Energy Corporation,NYQ
+CNC,Centene Corporation,NYQ
+CNP,"CenterPoint Energy, Inc.",NYQ
+CNX,CNX Resources Corporation,NYQ
+CNXT,VanEck ChiNext Innovators ETF,PCX
+COF,Capital One Financial Corporation,NYQ
+COMS,COMSovereign Holding Corp.,PNK
+COO,"The Cooper Companies, Inc.",NMS
+COP,ConocoPhillips,NYQ
+COR,"Cencora, Inc.",NYQ
+COST,Costco Wholesale Corporation,NMS
+COTY,Coty Inc.,NYQ
+CPAY,"Corpay, Inc.",NYQ
+CPB,The Campbell's Company,NMS
+CPRI,Capri Holdings Limited,NYQ
+CPRT,"Copart, Inc.",NMS
+CPT,Camden Property Trust,NYQ
+CPWR,Ocean Thermal Energy Corporation,OID
+CR,Crane Company,NYQ
+CRL,"Charles River Laboratories International, Inc.",NYQ
+CRM,"Salesforce, Inc.",NYQ
+CRWD,"CrowdStrike Holdings, Inc.",NMS
+CSCO,"Cisco Systems, Inc.",NMS
+CSGP,"CoStar Group, Inc.",NMS
+CSR,Centerspace,NYQ
+CSX,CSX Corporation,NMS
+CTAS,Cintas Corporation,NMS
+CTSH,Cognizant Technology Solutions Corporation,NMS
+CTVA,"Corteva, Inc.",NYQ
+CVS,CVS Health Corporation,NYQ
+CVX,Chevron Corporation,NYQ
+CZR,"Caesars Entertainment, Inc.",NMS
+D,"Dominion Energy, Inc.",NYQ
+DAL,"Delta Air Lines, Inc.",NYQ
+DD,"DuPont de Nemours, Inc.",NYQ
+DDS,"Dillard's, Inc.",TEX
+DE,Deere & Company,NYQ
+DECK,Deckers Outdoor Corporation,NYQ
+DELL,Dell Technologies Inc.,NYQ
+DG,Dollar General Corporation,NYQ
+DGX,Quest Diagnostics Incorporated,NYQ
+DHI,"D.R. Horton, Inc.",NYQ
+DHR,Danaher Corporation,NYQ
+DIS,The Walt Disney Company,NYQ
+DLR,"Digital Realty Trust, Inc.",NYQ
+DLTR,"Dollar Tree, Inc.",NMS
+DLX,Deluxe Corporation,NYQ
+DOC,"Healthpeak Properties, Inc.",NYQ
+DOV,Dover Corporation,NYQ
+DOW,Dow Inc.,NYQ
+DPZ,"Domino's Pizza, Inc.",NMS
+DRI,"Darden Restaurants, Inc.",NYQ
+DTE,DTE Energy Company,NYQ
+DUK,Duke Energy Corporation,NYQ
+DVA,DaVita Inc.,NYQ
+DVN,Devon Energy Corporation,NYQ
+DXC,DXC Technology Company,NYQ
+DXCM,"DexCom, Inc.",NMS
+DYN,"Dyne Therapeutics, Inc.",NMS
+EBAY,eBay Inc.,NMS
+EC,Ecopetrol S.A.,NYQ
+ECL,Ecolab Inc.,NYQ
+ED,"Consolidated Edison, Inc.",NYQ
+EFU,ProShares UltraShort MSCI EAFE,PCX
+EFX,Equifax Inc.,NYQ
+EG,"Everest Group, Ltd.",NYQ
+EHC,Encompass Health Corporation,NYQ
+EIX,Edison International,NYQ
+EL,The Estée Lauder Companies Inc.,NYQ
+ELV,"Elevance Health, Inc.",NYQ
+EMC,Global X Emerging Markets Great Consumer ETF,PCX
+EMN,Eastman Chemical Company,NYQ
+EMR,Emerson Electric Co.,NYQ
+ENPH,"Enphase Energy, Inc.",NGM
+EOG,"EOG Resources, Inc.",NYQ
+EPAM,"EPAM Systems, Inc.",NYQ
+EQ,"Equillium, Inc.",NCM
+EQIX,"Equinix, Inc.",NMS
+EQT,EQT Corporation,NYQ
+ES,Eversource Energy,NYQ
+ESS,"Essex Property Trust, Inc.",NYQ
+ETN,Eaton Corporation plc,NYQ
+ETR,Entergy Corporation,NYQ
+ETS,Elite Express Holding Inc.,NCM
+ETSY,"Etsy, Inc.",NYQ
+EVRG,"Evergy, Inc.",NMS
+EW,Edwards Lifesciences Corporation,NYQ
+EXC,Exelon Corporation,NMS
+EXPD,"Expeditors International of Washington, Inc.",NYQ
+EXPE,"Expedia Group, Inc.",NMS
+EXR,Extra Space Storage Inc.,NYQ
+F,Ford Motor Company,NYQ
+FANG,"Diamondback Energy, Inc.",NMS
+FAST,Fastenal Company,NMS
+FB,ProShares S&P 500 Dynamic Daily Buffer ETF,BTS
+FCX,Freeport-McMoRan Inc.,NYQ
+FDS,FactSet Research Systems Inc.,NYQ
+FDX,FedEx Corporation,NYQ
+FE,FirstEnergy Corp.,NYQ
+FFIV,"F5, Inc.",NMS
+FHN,First Horizon Corporation,NYQ
+FICO,Fair Isaac Corporation,NYQ
+FIS,"Fidelity National Information Services, Inc.",NYQ
+FISV,"Fiserv, Inc.",NMS
+FITB,Fifth Third Bancorp,NYQ
+FLR,Fluor Corporation,NYQ
+FLS,Flowserve Corporation,NYQ
+FMC,FMC Corporation,NYQ
+FOSL,"Fossil Group, Inc.",NMS
+FOX,Fox Corporation,NMS
+FOXA,Fox Corporation,NMS
+FRT,Federal Realty Investment Trust,NYQ
+FSLR,"First Solar, Inc.",NMS
+FTI,TechnipFMC plc,NYQ
+FTNT,"Fortinet, Inc.",NMS
+FTV,Fortive Corporation,NYQ
+G,Genpact Limited,NYQ
+GD,General Dynamics Corporation,NYQ
+GDDY,GoDaddy Inc.,NYQ
+GE,GE Aerospace,NYQ
+GEHC,GE HealthCare Technologies Inc.,NMS
+GEN,Gen Digital Inc.,NMS
+GENZ,VanEck Digital Native Economy ETF,NGM
+GEV,GE Vernova Inc.,NYQ
+GHC,Graham Holdings Company,NYQ
+GILD,"Gilead Sciences, Inc.",NMS
+GIS,"General Mills, Inc.",NYQ
+GL,Globe Life Inc.,NYQ
+GLW,Corning Incorporated,NYQ
+GM,General Motors Company,NYQ
+GME,GameStop Corp.,NYQ
+GNRC,Generac Holdings Inc.,NYQ
+GNW,"Genworth Financial, Inc.",NYQ
+GOOG,Alphabet Inc.,NMS
+GOOGL,Alphabet Inc.,NMS
+GPC,Genuine Parts Company,NYQ
+GPN,Global Payments Inc.,NYQ
+GRMN,Garmin Ltd.,NYQ
+GS,"The Goldman Sachs Group, Inc.",NYQ
+GT,The Goodyear Tire & Rubber Company,NMS
+GTE,Gran Tierra Energy Inc.,ASE
+GWW,"W.W. Grainger, Inc.",NYQ
+H,Hyatt Hotels Corporation,NYQ
+HAL,Halliburton Company,NYQ
+HAS,"Hasbro, Inc.",NMS
+HBAN,Huntington Bancshares Incorporated,NMS
+HCA,"HCA Healthcare, Inc.",NYQ
+HD,"The Home Depot, Inc.",NYQ
+HIG,"The Hartford Insurance Group, Inc.",NYQ
+HII,"Huntington Ingalls Industries, Inc.",NYQ
+HLT,Hilton Worldwide Holdings Inc.,NYQ
+HOG,"Harley-Davidson, Inc.",NYQ
+HON,Honeywell International Inc.,NMS
+HP,"Helmerich & Payne, Inc.",NYQ
+HPE,Hewlett Packard Enterprise Company,NYQ
+HPQ,HP Inc.,NYQ
+HRB,"H&R Block, Inc.",NYQ
+HRL,Hormel Foods Corporation,NYQ
+HSIC,"Henry Schein, Inc.",NMS
+HST,"Host Hotels & Resorts, Inc.",NMS
+HSY,The Hershey Company,NYQ
+HUBB,Hubbell Incorporated,NYQ
+HUM,Humana Inc.,NYQ
+HWM,Howmet Aerospace Inc.,NYQ
+IBM,International Business Machines Corporation,NYQ
+ICE,"Intercontinental Exchange, Inc.",NYQ
+IDXX,"IDEXX Laboratories, Inc.",NMS
+IEX,IDEX Corporation,NYQ
+IFF,International Flavors & Fragrances Inc.,NYQ
+ILMN,"Illumina, Inc.",NMS
+INCY,Incyte Corporation,NMS
+INFO,Harbor PanAgora Dynamic Large Cap Core ETF,NYQ
+INTC,Intel Corporation,NMS
+INTU,Intuit Inc.,NMS
+INVH,Invitation Homes Inc.,NYQ
+IP,International Paper Company,NYQ
+IPGP,IPG Photonics Corporation,NMS
+IQV,IQVIA Holdings Inc.,NYQ
+IR,Ingersoll Rand Inc.,NYQ
+IRM,Iron Mountain Incorporated,NYQ
+ISRG,"Intuitive Surgical, Inc.",NMS
+IT,"Gartner, Inc.",NYQ
+ITT,ITT Inc.,NYQ
+ITW,Illinois Tool Works Inc.,NYQ
+IVZ,Invesco Ltd.,NYQ
+J,Jacobs Solutions Inc.,NYQ
+JAVA,JPMorgan Active Value ETF,PCX
+JBHT,"J.B. Hunt Transport Services, Inc.",NMS
+JBL,Jabil Inc.,NYQ
+JCI,Johnson Controls International plc,NYQ
+JEF,Jefferies Financial Group Inc.,NYQ
+JKHY,"Jack Henry & Associates, Inc.",NMS
+JNJ,Johnson & Johnson,NYQ
+JPM,JPMorgan Chase & Co.,NYQ
+KBH,KB Home,NYQ
+KDP,Keurig Dr Pepper Inc.,NMS
+KEY,KeyCorp,NYQ
+KEYS,"Keysight Technologies, Inc.",NYQ
+KG,Kestrel Group Ltd,NCM
+KHC,The Kraft Heinz Company,NYQ
+KIM,Kimco Realty Corporation,NYQ
+KKR,KKR & Co. Inc.,NYQ
+KLAC,KLA Corporation,NMS
+KMB,Kimberly-Clark Corporation,NMS
+KMI,"Kinder Morgan, Inc.",NYQ
+KMX,"CarMax, Inc.",NYQ
+KO,The Coca-Cola Company,NYQ
+KR,The Kroger Co.,NYQ
+KSS,Kohl's Corporation,NYQ
+KVUE,Kenvue Inc.,NYQ
+L,Loews Corporation,NYQ
+LB,LandBridge Corporation,NYQ
+LDOS,"Leidos Holdings, Inc.",NYQ
+LEN,Lennar Corporation,NYQ
+LH,Labcorp Holdings Inc.,NYQ
+LHX,"L3Harris Technologies, Inc.",NYQ
+LIN,Linde plc,NMS
+LKQ,LKQ Corporation,NMS
+LLY,Eli Lilly and Company,NYQ
+LMT,Lockheed Martin Corporation,NYQ
+LNC,Lincoln National Corporation,NYQ
+LNT,Alliant Energy Corporation,NMS
+LOW,"Lowe's Companies, Inc.",NYQ
+LPX,Louisiana-Pacific Corporation,NYQ
+LRCX,Lam Research Corporation,NMS
+LU,Lufax Holding Ltd,NYQ
+LULU,lululemon athletica inc.,NMS
+LUMN,"Lumen Technologies, Inc.",NMS
+LUV,Southwest Airlines Co.,NYQ
+LVS,Las Vegas Sands Corp.,NYQ
+LW,"Lamb Weston Holdings, Inc.",NYQ
+LYB,LyondellBasell Industries N.V.,NYQ
+LYV,"Live Nation Entertainment, Inc.",NYQ
+M,"Macy's, Inc.",NYQ
+MA,Mastercard Incorporated,NYQ
+MAA,"Mid-America Apartment Communities, Inc.",NYQ
+MAC,The Macerich Company,NYQ
+MAR,"Marriott International, Inc.",NMS
+MAS,Masco Corporation,NYQ
+MAT,"Mattel, Inc.",NMS
+MBI,MBIA Inc.,NYQ
+MCD,McDonald's Corporation,NYQ
+MCHP,Microchip Technology Incorporated,NMS
+MCK,McKesson Corporation,NYQ
+MCO,Moody's Corporation,NYQ
+MDLZ,"Mondelez International, Inc.",NMS
+MDT,Medtronic plc,NYQ
+MEDI,Harbor Health Care ETF,PCX
+MET,"MetLife, Inc.",NYQ
+META,"Meta Platforms, Inc.",NMS
+MGM,MGM Resorts International,NYQ
+MHK,"Mohawk Industries, Inc.",NYQ
+MI,NFT Limited,ASE
+MIR,"Mirion Technologies, Inc.",NYQ
+MKC,"McCormick & Company, Incorporated",NYQ
+MKTX,MarketAxess Holdings Inc.,NMS
+MLM,"Martin Marietta Materials, Inc.",NYQ
+MMI,"Marcus & Millichap, Inc.",NYQ
+MMM,3M Company,NYQ
+MNST,Monster Beverage Corporation,NMS
+MO,"Altria Group, Inc.",NYQ
+MOH,"Molina Healthcare, Inc.",NYQ
+MOS,The Mosaic Company,NYQ
+MPC,Marathon Petroleum Corporation,NYQ
+MPWR,"Monolithic Power Systems, Inc.",NMS
+MRK,"Merck & Co., Inc.",NYQ
+MRNA,"Moderna, Inc.",NMS
+MS,Morgan Stanley,NYQ
+MSCI,MSCI Inc.,NYQ
+MSFT,Microsoft Corporation,NMS
+MSI,"Motorola Solutions, Inc.",NYQ
+MTB,M&T Bank Corporation,NYQ
+MTCH,,NMS
+MTD,Mettler-Toledo International Inc.,NYQ
+MTG,MGIC Investment Corporation,NYQ
+MTW,"The Manitowoc Company, Inc.",NYQ
+MU,"Micron Technology, Inc.",NMS
+MUR,Murphy Oil Corporation,NYQ
+NAVI,Navient Corporation,NMS
+NBR,Nabors Industries Ltd.,NYQ
+NC,"NACCO Industries, Inc.",NYQ
+NCLH,Norwegian Cruise Line Holdings Ltd.,NYQ
+NDAQ,"Nasdaq, Inc.",NMS
+NDSN,Nordson Corporation,NMS
+NE,Noble Corporation plc,NYQ
+NEE,"NextEra Energy, Inc.",NYQ
+NEM,Newmont Corporation,NYQ
+NFLX,"Netflix, Inc.",NMS
+NI,NiSource Inc.,NYQ
+NKE,"NIKE, Inc.",NYQ
+NKTR,Nektar Therapeutics,NCM
+NOC,Northrop Grumman Corporation,NYQ
+NOV,NOV Inc.,NYQ
+NOW,"ServiceNow, Inc.",NYQ
+NRG,"NRG Energy, Inc.",NYQ
+NSC,Norfolk Southern Corporation,NYQ
+NSI,National Security Emerging Markets Index ETF,NGM
+NTAP,"NetApp, Inc.",NMS
+NTRS,Northern Trust Corporation,NMS
+NUE,Nucor Corporation,NYQ
+NVDA,NVIDIA Corporation,NMS
+NVR,"NVR, Inc.",NYQ
+NWL,Newell Brands Inc.,NMS
+NWS,News Corporation,NMS
+NWSA,News Corporation,NMS
+NXPI,NXP Semiconductors N.V.,NMS
+NYT,The New York Times Company,NYQ
+O,Realty Income Corporation,NYQ
+ODFL,"Old Dominion Freight Line, Inc.",NMS
+OGN,Organon & Co.,NYQ
+OI,"O-I Glass, Inc.",NYQ
+OKE,"ONEOK, Inc.",NYQ
+OMC,Omnicom Group Inc.,NYQ
+ON,ON Semiconductor Corporation,NMS
+ORCL,Oracle Corporation,NYQ
+ORLY,"O'Reilly Automotive, Inc.",NMS
+OTIS,Otis Worldwide Corporation,NYQ
+OXY,Occidental Petroleum Corporation,NYQ
+PANW,"Palo Alto Networks, Inc.",NMS
+PARA,"Banzai International, Inc.",NCM
+PAYC,"Paycom Software, Inc.",NYQ
+PAYX,"Paychex, Inc.",NMS
+PBI,Pitney Bowes Inc.,NYQ
+PCAR,PACCAR Inc,NMS
+PCG,PG&E Corporation,NYQ
+PCL,PGIM Corporate Bond 10+ Year ETF,BTS
+PCS,PGIM Corporate Bond 0-5 Year ETF,BTS
+PD,"PagerDuty, Inc.",NYQ
+PEG,Public Service Enterprise Group Incorporated,NYQ
+PENN,"PENN Entertainment, Inc.",NMS
+PEP,"PepsiCo, Inc.",NMS
+PFE,Pfizer Inc.,NYQ
+PFG,"Principal Financial Group, Inc.",NMS
+PG,The Procter & Gamble Company,NYQ
+PGR,The Progressive Corporation,NYQ
+PH,Parker-Hannifin Corporation,NYQ
+PHM,"PulteGroup, Inc.",NYQ
+PKG,Packaging Corporation of America,NYQ
+PLD,"Prologis, Inc.",NYQ
+PM,Philip Morris International Inc.,NYQ
+PNC,"The PNC Financial Services Group, Inc.",NYQ
+PNR,Pentair plc,NYQ
+PNW,Pinnacle West Capital Corporation,NYQ
+PODD,Insulet Corporation,NMS
+POM,Pomdoctor Limited,NGM
+POOL,Pool Corporation,NMS
+PPG,"PPG Industries, Inc.",NYQ
+PPL,PPL Corporation,NYQ
+PRGO,Perrigo Company plc,NYQ
+PRU,"Prudential Financial, Inc.",NYQ
+PSA,Public Storage,NYQ
+PSX,Phillips 66,NYQ
+PTC,PTC Inc.,NMS
+PVH,PVH Corp.,NYQ
+PWER,Nomura Energy Transition ETF,PCX
+PWR,"Quanta Services, Inc.",NYQ
+PYPL,"PayPal Holdings, Inc.",NMS
+Q,"Qnity Electronics, Inc.",NYQ
+QCOM,QUALCOMM Incorporated,NMS
+R,"Ryder System, Inc.",NYQ
+RAL,Ralliant Corporation,NYQ
+RCL,Royal Caribbean Cruises Ltd.,NYQ
+REG,Regency Centers Corporation,NMS
+REGN,"Regeneron Pharmaceuticals, Inc.",NMS
+RF,Regions Financial Corporation,NYQ
+RHI,Robert Half Inc.,NYQ
+RIG,Transocean Ltd.,NYQ
+RJF,"Raymond James Financial, Inc.",NYQ
+RL,Ralph Lauren Corporation,NYQ
+RMD,ResMed Inc.,NYQ
+ROK,"Rockwell Automation, Inc.",NYQ
+ROL,"Rollins, Inc.",NYQ
+ROP,"Roper Technologies, Inc.",NMS
+ROST,"Ross Stores, Inc.",NMS
+RRC,Range Resources Corporation,NYQ
+RSG,"Republic Services, Inc.",NYQ
+RTX,RTX Corporation,NYQ
+RVTY,"Revvity, Inc.",NYQ
+S,"SentinelOne, Inc.",NYQ
+SANM,Sanmina Corporation,NMS
+SBAC,SBA Communications Corporation,NMS
+SBNY,Signature Bank,PNK
+SBUX,Starbucks Corporation,NMS
+SCHW,The Charles Schwab Corporation,NYQ
+SCI,Service Corporation International,NYQ
+SDS,ProShares UltraShort S&P500,PCX
+SE,Sea Limited,NYQ
+SEDG,"SolarEdge Technologies, Inc.",NMS
+SEG,Seaport Entertainment Group Inc.,NYQ
+SHLD,Global X Defense Tech ETF,PCX
+SHW,The Sherwin-Williams Company,NYQ
+SIG,Signet Jewelers Limited,NYQ
+SII,Sprott Inc.,NYQ
+SJM,The J. M. Smucker Company,NYQ
+SLB,SLB N.V.,NYQ
+SLG,SL Green Realty Corp.,NYQ
+SLM,SLM Corporation,NMS
+SMCI,"Super Micro Computer, Inc.",NMS
+SNA,Snap-on Incorporated,NYQ
+SNDK,Sandisk Corporation,NMS
+SNPS,"Synopsys, Inc.",NMS
+SO,The Southern Company,NYQ
+SOLV,Solventum Corporation,NYQ
+SPG,"Simon Property Group, Inc.",NYQ
+SPGI,S&P Global Inc.,NYQ
+SRE,Sempra,NYQ
+SSP,The E.W. Scripps Company,NMS
+STE,STERIS plc,NYQ
+STI,"Solidion Technology, Inc.",NCM
+STLD,"Steel Dynamics, Inc.",NMS
+STT,State Street Corporation,NYQ
+STX,Seagate Technology Holdings plc,NMS
+STZ,"Constellation Brands, Inc.",NYQ
+SUB,iShares Short-Term National Muni Bond ETF,PCX
+SUN,Sunoco LP,TEX
+SWK,"Stanley Black & Decker, Inc.",NYQ
+SWKS,"Skyworks Solutions, Inc.",NMS
+SYF,Synchrony Financial,NYQ
+SYK,Stryker Corporation,NYQ
+SYY,Sysco Corporation,NYQ
+T,AT&T Inc.,NYQ
+TAP,Molson Coors Beverage Company,NYQ
+TDC,Teradata Corporation,NYQ
+TDG,TransDigm Group Incorporated,NYQ
+TDY,Teledyne Technologies Incorporated,NYQ
+TE,T1 Energy Inc.,NYQ
+TECH,Bio-Techne Corporation,NMS
+TEK,iShares Technology Opportunities Active ETF,PCX
+TEL,TE Connectivity plc,NYQ
+TER,"Teradyne, Inc.",NMS
+TEX,Terex Corporation,NYQ
+TFC,Truist Financial Corporation,NYQ
+TFX,Teleflex Incorporated,NYQ
+TGT,Target Corporation,NYQ
+THC,Tenet Healthcare Corporation,NYQ
+TJX,"The TJX Companies, Inc.",NYQ
+TKR,The Timken Company,NYQ
+TMC,TMC the metals company Inc.,NMS
+TMO,Thermo Fisher Scientific Inc.,NYQ
+TMUS,"T-Mobile US, Inc.",NMS
+TPR,"Tapestry, Inc.",NYQ
+TRGP,Targa Resources Corp.,NYQ
+TRIP,"Tripadvisor, Inc.",NMS
+TRMB,Trimble Inc.,NMS
+TROW,"T. Rowe Price Group, Inc.",NMS
+TRV,"The Travelers Companies, Inc.",NYQ
+TSCO,Tractor Supply Company,NMS
+TSLA,"Tesla, Inc.",NMS
+TSN,"Tyson Foods, Inc.",NYQ
+TT,Trane Technologies plc,NYQ
+TTWO,"Take-Two Interactive Software, Inc.",NMS
+TX,Ternium S.A.,NYQ
+TXN,Texas Instruments Incorporated,NMS
+TXT,Textron Inc.,NYQ
+TYL,"Tyler Technologies, Inc.",NYQ
+UA,"Under Armour, Inc.",NYQ
+UAA,"Under Armour, Inc.",NYQ
+UAL,"United Airlines Holdings, Inc.",NMS
+UBER,"Uber Technologies, Inc.",NYQ
+UCL,uCloudlink Group Inc.,NGM
+UDR,"UDR, Inc.",NYQ
+UHS,"Universal Health Services, Inc.",NYQ
+UIS,Unisys Corporation,NYQ
+UK,Ucommune International Ltd,NCM
+ULTA,"Ulta Beauty, Inc.",NMS
+UNH,UnitedHealth Group Incorporated,NYQ
+UNM,Unum Group,NYQ
+UNP,Union Pacific Corporation,NYQ
+UPC,Universe Pharmaceuticals INC,NCM
+UPS,"United Parcel Service, Inc.",NYQ
+URBN,"Urban Outfitters, Inc.",NMS
+URI,"United Rentals, Inc.",NYQ
+USB,U.S. Bancorp,NYQ
+UST,ProShares Ultra 7-10 Year Treasury,PCX
+V,Visa Inc.,NYQ
+VFC,V.F. Corporation,NYQ
+VIAV,Viavi Solutions Inc.,NMS
+VICI,VICI Properties Inc.,NYQ
+VLO,Valero Energy Corporation,NYQ
+VLTO,Veralto Corporation,NYQ
+VMC,Vulcan Materials Company,NYQ
+VNO,Vornado Realty Trust,NYQ
+VNT,Vontier Corporation,NYQ
+VO,Vanguard Morningstar Mid-Cap ETF,PCX
+VRSK,"Verisk Analytics, Inc.",NMS
+VRSN,"VeriSign, Inc.",NMS
+VRTS,"Virtus Investment Partners, Inc.",NYQ
+VRTX,Vertex Pharmaceuticals Incorporated,NMS
+VST,Vistra Corp.,NYQ
+VTR,"Ventas, Inc.",NYQ
+VTRS,Viatris Inc.,NMS
+VZ,Verizon Communications Inc.,NYQ
+WAB,Westinghouse Air Brake Technologies Corporation,NYQ
+WAT,Waters Corporation,NYQ
+WB,Weibo Corporation,NMS
+WDC,Western Digital Corporation,NMS
+WEC,"WEC Energy Group, Inc.",NYQ
+WELL,Welltower Inc.,NYQ
+WEN,The Wendy's Company,NMS
+WFC,Wells Fargo & Company,NYQ
+WHR,Whirlpool Corporation,NYQ
+WM,"Waste Management, Inc.",NYQ
+WMB,"The Williams Companies, Inc.",NYQ
+WMT,Walmart Inc.,NMS
+WOR,"Worthington Enterprises, Inc.",NYQ
+WRB,W. R. Berkley Corporation,NYQ
+WST,"West Pharmaceutical Services, Inc.",NYQ
+WTW,Willis Towers Watson Public Limited Company,NMS
+WU,The Western Union Company,NYQ
+WY,Weyerhaeuser Company,NYQ
+WYNN,"Wynn Resorts, Limited",NMS
+XEL,Xcel Energy Inc.,NMS
+XOM,ExxonMobil Holdings Corporation,NYQ
+XRAY,DENTSPLY SIRONA Inc.,NMS
+XRX,Xerox Holdings Corporation,NMS
+XYL,Xylem Inc.,NYQ
+YUM,"Yum! Brands, Inc.",NYQ
+ZBH,"Zimmer Biomet Holdings, Inc.",NYQ
+ZBRA,Zebra Technologies Corporation,NMS
+ZION,"Zions Bancorporation, National Association",NMS
+ZTS,Zoetis Inc.,NYQ
